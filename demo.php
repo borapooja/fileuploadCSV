@@ -22,6 +22,7 @@
 <?php 
 //Test Git
 //connection with database
+
 $con = mysqli_connect("localhost","root","12345","demo");
 
 // Checking database connection
